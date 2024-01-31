@@ -2,4 +2,3 @@ Apply plugin: 'java';
 Apply plugin: 'application';
 mainClassName = "MyFirstProgram"
 
-//23
